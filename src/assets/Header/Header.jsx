@@ -10,7 +10,7 @@ function Header() {
 
 
         <div id='logo'>
-            <img src="./src/assets/images/bird.svg" alt="logo"></img>
+            <img src="s/images/bird.svg" alt="logo"></img>
         </div>
 
         

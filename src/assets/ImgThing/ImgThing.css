@@ -1,0 +1,87 @@
+#sectionImg{
+    height:100vh;
+    width:100vw;
+    object-fit:cover;
+
+   
+}
+
+#imgThing{
+   
+    height:100vh;
+    z-index:3;
+     position:absolute;
+    translate:0 95%;
+}
+
+
+    
+    
+
+    
+
+#finalimg{
+    background:white;
+    width:99vw;
+    position:absolute
+    
+    
+    
+}
+
+#paraimg{
+    translate:1% 35%;
+    object-fit: cover;
+    width:97vw;
+    z-index:0;
+    position:relative
+   
+   
+    
+}
+
+#movingpath4{
+   position:absolute;
+    translate:150% 201.4%;
+    
+    stroke-dasharray: 0;
+    stroke-dashoffset: 0;
+}
+#finalTree{
+    position:absolute;
+    background-color:white;
+    z-index:2;
+    translate:0 -50%
+}
+
+#finalTreeImg{
+    height:100vh;
+    width:100vw;
+    translate:0 -50%
+}
+
+#movingpath5 {
+    translate: 8% 101%;
+    z-index:8;
+    stroke-dasharray: 0;
+    stroke-dashoffset: 0;
+    
+}
+
+
+#firstparatext{
+    translate: 0 30%;
+   text-align: center;
+   font-family: sora;
+   color:#13735f;
+   font-size:80px
+}
+
+#secondparatext{
+    translate:0 30%;
+    text-align:center;
+    font-family:sora;
+    color:#13735f;
+    font-size:80px;
+    font-weight:600
+}

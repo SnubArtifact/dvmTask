@@ -1,5 +1,6 @@
 import React from 'react';
 import "./ImgThing.css";
+import forest from "./src/assets/images/forest@2x.jpg";
 
 function ImgThing() {
   return (
@@ -44,7 +45,7 @@ function ImgThing() {
 
    
       <div id="imgThing">        
-        <img id="sectionImg" src="./public/images/forest@2x.jpg" alt="Forest" />
+        <img id="sectionImg" src={forest} alt="Forest" />
 
         <p id="firstparatext">Lebendiger Baum.</p>
         <p id="secondparatext">Lebendiger Raum.</p>

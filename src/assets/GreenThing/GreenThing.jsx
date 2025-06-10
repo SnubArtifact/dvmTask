@@ -15,20 +15,20 @@ function GreenThing() {
     <section id="greenThing">
         <div id="masterdiv">
             <div id="imgDivLeft">
-              <img id="treeleft1" src="./src/assets/images/treeleft1.svg" alt="tree"></img>
-              <img id="treeleft2" src="./src/assets/images/treeleft2.svg" alt="tree"></img>
-              <img id="treeleft3" src="./src/assets/images/treeleft3.svg" alt="tree"></img>
+              <img id="treeleft1" src="/images/treeleft1.svg" alt="tree"></img>
+              <img id="treeleft2" src="/images/treeleft2.svg" alt="tree"></img>
+              <img id="treeleft3" src="/images/treeleft3.svg" alt="tree"></img>
 
 
 
           </div>
 
           <div id="imgDivRight">
-              <img id="treeRight1" src="./src/assets/images/treeright1.svg" alt="tree"></img>
-              <img id="treeRight2" src="./src/assets/images/treeright2.svg" alt="tree"></img>
+              <img id="treeRight1" src="/images/treeright1.svg" alt="tree"></img>
+              <img id="treeRight2" src="/images/treeright2.svg" alt="tree"></img>
 
 
-              <img id="treeRight3" src="./src/assets/images/treeright3.svg" alt="tree"></img>
+              <img id="treeRight3" src="/images/treeright3.svg" alt="tree"></img>
           </div>
         
 
@@ -38,7 +38,7 @@ function GreenThing() {
 
 
           <div id="greenThingLogo">
-              <img id="greenThingImg" src="./src/assets/images/whitebird.svg" alt="logo"></img>
+              <img id="greenThingImg" src="/images/whitebird.svg" alt="logo"></img>
           </div>
           <div id="text">
               <h1 className=" mt-12">Impact </h1>
@@ -49,7 +49,7 @@ function GreenThing() {
 
 
 
-          <img id="arrowlogo" src="./src/assets/images/doubledownarrow.svg" alt="arrow"></img>
+          <img id="arrowlogo" src="/images/doubledownarrow.svg" alt="arrow"></img>
 
 
 

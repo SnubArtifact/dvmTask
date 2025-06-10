@@ -44,7 +44,7 @@ function ImgThing() {
 
    
       <div id="imgThing">        
-        <img id="sectionImg" src="./src/assets/images/forest@2x.jpg" alt="Forest" />
+        <img id="sectionImg" src="./public/images/forest@2x.jpg" alt="Forest" />
 
         <p id="firstparatext">Lebendiger Baum.</p>
         <p id="secondparatext">Lebendiger Raum.</p>
